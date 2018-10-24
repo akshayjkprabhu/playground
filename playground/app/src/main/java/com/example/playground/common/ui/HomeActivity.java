@@ -1,4 +1,4 @@
-package com.example.playground.common.ui.home;
+package com.example.playground.common.ui;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
